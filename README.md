@@ -8,7 +8,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=youngkawhi&theme=react-dark)](https://github.com/youngkawhi/github-readme-activity-graph)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=youngkawhi)](https://git.io/streak-stats)
 
 
 
