@@ -10,7 +10,7 @@
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=youngkawhi" /> </div>
 
-
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=youngkawhi&theme=xcode" /> </div>
 
 
 
